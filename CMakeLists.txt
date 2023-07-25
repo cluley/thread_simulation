@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 project(Thread_Simulation)
 
-add_executable(Thread_Simulation main.cpp)
+add_executable(Thread_Simulation main.cpp )
