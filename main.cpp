@@ -85,7 +85,6 @@ int main() {
 	}
 
 	consol_parameter con;
-	con.SetColor(7, 0);
 	con.SetPosition(0, qty + 1);
 
 	return 0;
